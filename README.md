@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a notebook-driven workflow for rigorous numerical verification using interval arithmetic. The computations focus on the self-similar solution and the associated eigenpair verification for the Navier–Stokes equation.
+This repository contains a notebook-driven workflow for rigorous numerical verification using interval arithmetic. The computations focus on the self-similar solution and the associated eigenpair verification for the Navier–Stokes equation based on our paper https://arxiv.org/abs/2509.25116.
 
 The numerical routines are implemented in Julia and imported directly into Jupyter notebooks to perform rigorous verification.
 
